@@ -1,4 +1,4 @@
-# 🎲 Rubik's Cube Solver
+# Rubik's Cube Solver
 
 A high-performance C++ implementation of a Rubik's Cube solver featuring multiple solving algorithms, different cube representations, and pattern database support for optimal solutions.
 
