@@ -1,8 +1,3 @@
-//
-// Created by Lakshya Mittal on 22-12-2021.
-// Modified by Pranav Harresh on 25-07-2025.
-//
-
 #include "RubiksCube.h"
 
 class RubiksCube1dArray : public RubiksCube {
